@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "Just Cookie Bot",
     "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"   
+    },
     "author": "Cooki2468",
     "dependencies": {
         "discord.io": "^2.5.3",
