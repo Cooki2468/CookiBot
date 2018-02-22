@@ -1,6 +1,9 @@
 {
     "name": "CookiBot",
     "version": "1.0.0",
+    "engines": {
+        "node": "8.9.4"
+    },
     "description": "Just Cookie Bot",
     "main": "bot.js",
     "scripts": {
